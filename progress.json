@@ -1,0 +1,20 @@
+[
+  {
+    "chapter": "Chapter 1",
+    "title": "Boolean Logic",
+    "status": "in_progress",
+    "note": "NANDからAND/OR/NOTを作れるのが腹落ちし始めた。テストの通し方を固めたい。"
+  },
+  {
+    "chapter": "Chapter 2",
+    "title": "Boolean Arithmetic",
+    "status": "todo",
+    "note": "半加算器→全加算器→ALUの流れを意識して進める。"
+  },
+  {
+    "chapter": "Chapter 3",
+    "title": "Sequential Logic",
+    "status": "todo",
+    "note": "フリップフロップとレジスタの“記憶”の直感を掴む。"
+  }
+]
