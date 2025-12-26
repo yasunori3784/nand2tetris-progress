@@ -16,4 +16,6 @@ This repository is a learning log for the **NAND2Tetris** course.
 ## Status
 Just started 🚀
 
+## Progress
+See `progress.json` for chapter status and short learning notes.
 
